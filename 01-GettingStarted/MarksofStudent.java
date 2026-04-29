@@ -1,4 +1,4 @@
-/* You are given input marks= 83 of a student.
+/* Ques 5:- You are given input marks= 83 of a student.
 Display an appropriate message based on the following rule:-
 5.1- For marks above 90 print "Excellent".
 5.2- For marks above 80 and less than equal to 90, Print "Good".
